@@ -26,8 +26,8 @@ from pyrogram.types import InlineKeyboardButton as IKB
 from pyrogram.types import InlineKeyboardMarkup
 from pyrogram.types import InlineKeyboardMarkup as IKM
 from pyrogram.types import Message
-from Prince import app
-from Prince.helper.state import state
+from SHUKLAMUSIC import app
+from SHUKLAMUSIC.helper.state import state
 import config 
 from pyrogram.enums import ParseMode
 import textwrap
