@@ -96,6 +96,10 @@ SPOTIFY_CLIENT_SECRET = getenv("SPOTIFY_CLIENT_SECRET", "709e1a2969664491b582008
 # ----------------------------------------------------------------------------------
 
 
+ARQ_API_KEY = "RLWCED-WZASYO-AWOLTB-ITBWTP-ARQ"
+ARQ_API_URL = "arq.hamker.dev"
+
+
 
 
 # -----------------------------------------------------------------------------------
